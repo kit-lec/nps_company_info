@@ -136,7 +136,6 @@ pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==9.5.0
 pinecone-client==2.2.4
-pip==25.0
 platformdirs==3.10.0
 playwright==1.39.0
 portalocker==2.8.2
@@ -191,7 +190,6 @@ scipy==1.11.3
 seaborn==0.13.2
 sentence-transformers==2.2.2
 sentencepiece==0.1.99
-setuptools==75.8.0
 six==1.16.0
 smart-open==6.4.0
 smmap==5.0.0
@@ -224,8 +222,8 @@ tqdm==4.66.1
 traitlets==5.10.0
 transformers==4.34.0
 typer==0.9.0
-typing_extensions==4.7.1
 typing-inspect==0.9.0
+typing_extensions==4.7.1
 tzdata==2023.3
 tzlocal==4.3.1
 ujson==5.8.0
@@ -240,7 +238,6 @@ watchdog==3.0.0
 watchfiles==0.20.0
 wcwidth==0.2.6
 websockets==11.0.3
-wheel==0.45.1
 wikipedia==1.4.0
 win32_setctime==1.2.0
 xlrd==2.0.1

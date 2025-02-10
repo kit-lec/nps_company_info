@@ -119,6 +119,8 @@ class PensionData():
 # base_path = r'K:\dataset\Strreamlit'
 # file_name = r'국민연금공단_국민연금 가입 사업장 내역_20250123.csv'
 # file_path = os.path.join(base_path, file_name)
+
+
 file_path = r'https://www.dropbox.com/scl/fi/2v4676nsnjf3tx0jrkq26/nlp_company_20250123.csv?rlkey=m78skae6r03yd4g6xu1lopdo6&st=o3jmgbqj&dl=1'
 
 

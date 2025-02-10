@@ -133,7 +133,7 @@ file_path = r'https://www.dropbox.com/scl/fi/2v4676nsnjf3tx0jrkq26/nlp_company_2
 # st.cache_resource
 #   https://docs.streamlit.io/develop/api-reference/caching-and-state/st.cache_resource 
 
-@st.cache_data
+@st.cache_resource
 def read_pensiondata():
     data = PensionData(file_path)
     return data
